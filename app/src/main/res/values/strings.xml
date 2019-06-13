@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liste de contact</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Bienvenue!</string>
+    <string name="Add_New">Ajouter un nouveau</string>
+    <string name="edit">Editer un contact</string>
+    <string name="delete">effacer un contact</string>
+    <string name="title_activity_display_contact">AffichageContact</string>
+    <string name="name">Nom et prénom</string>
+    <string name="phone">Téléphone</string>
+    <string name="email">Email</string>
+    <string name="street">Adresse</string>
+    <string name="country">Pays</string>
+    <string name="save">Sauvegarder</string>
+    <string name="deleteContact">Etes-vous sûr de vouloir le supprimer.</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
